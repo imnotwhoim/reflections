@@ -1,0 +1,2 @@
+What happens when you initialize a repository? Why do you need to do it?
+i donno may b it just,,, may after intializaing we caqn compare the two files,,, or it is listed or something

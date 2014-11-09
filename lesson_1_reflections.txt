@@ -1,0 +1,18 @@
+how did viewing to different version of a software gonna help you.
+we will see.
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+i am not programmer now. but i love to be the one... or mayu b i di=unno... don;t paln
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google docs does?
+
+i think i gonna forgot the commit n ruin it 
+i think i gonna forgot the commit n ruin it 
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+How can you use the commands git log and git diff to view the history of files?
+
+git log just shows the the entire history of files... and git difference take two id from the git log n comapre thenm n giv the bumber of lines added nad deklted from it.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+i wana develop awebsite
